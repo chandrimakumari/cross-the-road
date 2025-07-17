@@ -1,11 +1,5 @@
 <div align="center">  
-                                                                                           
-![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/Cross-Road-Game)
-  ![GitHub stars](https://img.shields.io/github/stars/codeaashu/Cross-Road-Game?style=social) 
-  ![GitHub forks](https://img.shields.io/github/forks/codeaashu/Cross-Road-Game?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
-<hr>
   <h1 align="center">🎮 Cross Road Game - Advanced Edition 🎮</h1>
   <img src="./images/LOGO.png" width="100px" />
   <br><a href="https://cross-road-game.vercel.app/"><strong> 🏎️💨Play the Game ✦</strong></a><br><br>
