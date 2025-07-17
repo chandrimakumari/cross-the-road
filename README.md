@@ -223,12 +223,6 @@ Cross-Road-Game/
 
 This project is open source and available under the [MIT License](LICENSE).
 
-<h2>👨‍💻 Developer</h2>
-
-Created with ❤️ by [Chandrima](https://github.com/chandrimakumari)
-
-**For College Final Year Projects:** This enhanced version demonstrates advanced web development concepts, game programming principles, and modern UI/UX design. Perfect for showcasing technical skills and creativity in academic projects.
-
 ---
 
 <div align="center">
