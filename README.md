@@ -2,7 +2,7 @@
 
   <h1 align="center">🎮 Cross Road Game - Advanced Edition 🎮</h1>
   <img src="./images/LOGO.png" width="100px" />
-  <br><a href="https://cross-road-game.vercel.app/"><strong> 🏎️💨Play the Game ✦</strong></a><br><br>
+  <br><a href="https://chandrimakumari.github.io/cross-the-road/"><strong> 🏎️💨Play the Game ✦</strong></a><br><br>
   
   ` Welcome to the Enhanced Cross Road Car Game! This advanced version features multiple game modes, user authentication, achievements, leaderboards, power-ups, and much more. Perfect for college final year projects with comprehensive features and modern UI/UX design. `<hr></div>
 
